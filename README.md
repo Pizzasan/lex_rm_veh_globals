@@ -1,4 +1,4 @@
-# 🇫🇷 **FR translation JSON** → [Click here to download](https://raw.githubusercontent.com/Pizzasan/lex_rm_veh_globals/main/ui/translations/fr.json)
+# 🇫🇷 **FR translation JSON** → [RIGHT CLICK SAVE AS 'fr.json'](https://raw.githubusercontent.com/Pizzasan/lex_rm_veh_globals/main/ui/translations/fr.json)
 # how to install fr json:
 - `Win` + `R` then type `%userprofile%\Lexis\Grand Theft Auto V\ui\translations\` then place the json file here.
 - Then load lexis go to `Settings > Translations` and auto load `fr.json`
